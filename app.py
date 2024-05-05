@@ -34,7 +34,7 @@ def get_gemini_response(question):
 
 st.set_page_config(page_title="Ali & Arooj ChatBot")
 
-st.header("Gemini Application")
+st.header("QA Chatbot by Ali & Arooj")
 
 input=st.text_input("Input: ",key="input")
 
